@@ -1,6 +1,6 @@
 Next.js is a popular and lightweight framework for static and server‑rendered applications built with React.
 
-This web app provides news updatdes consolidated from various sources using an API call.
+This web app provides news updates consolidated from various sources using an API call.
 
 ## Getting Started
 

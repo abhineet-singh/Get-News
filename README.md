@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Next.js is a popular and lightweight framework for static and server‑rendered applications built with React.
+
+This web app provides news updatdes consolidated from various sources using an API call.
 
 ## Getting Started
 
